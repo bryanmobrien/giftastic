@@ -20,7 +20,7 @@ function createFavoritesView(){
 }
 
 /*
-    this function takes a gif object from giphy and makes a html "card" for it
+    this function takes a gif object from giphy and makes an html "card" for it
 */
 function makeFavoritesCards(data){
     //make a new div and set its className to "img-content-container"
@@ -33,6 +33,8 @@ function makeFavoritesCards(data){
     newImg.src = data.still;
 
     // Create an object for favorites
+    // still is a static gif, animated is a 'gif in action'
+    // all others should be self-explanatory
     let dataObj = {
         still: data.still,
         animated: data.animated,
