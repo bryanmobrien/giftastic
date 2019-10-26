@@ -1,6 +1,7 @@
 # GifTastic - using APIs for both Giphy and OMDB searches
-This application allows the searching via Giphy and OMDB APIs.  
-You can add your own buttons for quick searching.  
+This application allows the searching via Giphy and OMDB APIs
+You can add your own buttons for quick searching
+You can select favorite gifs to store for later viewing/deleting
 
 # Usage
 
