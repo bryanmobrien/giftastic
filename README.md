@@ -5,10 +5,10 @@ You can add your own buttons for quick searching.
 # Usage
 
 ### **Giphy**
-- click one of the premade buttons at the top of the page to display 10 gif's
-- make your own custom button using the text box under the "Add a button" text on the right side of the screen
-- click a gif to play/pause said gif
-- click "favorite?" button under the gif to add it to your favorites view
+- Clicking a buttons at the top of the page will display 10 gif's related to that button
+- Personal buttons can be created with "Add a button" on the right of the screen
+- Click the gif to play it, click it again to pause it
+- Clicking  "favorite?" button under the gif to add it to your favorites view
 
 ### **OMDB**
 - Click one of the premade buttons at the top of the page to display stats about a movie with that name
